@@ -1,5 +1,5 @@
 /*
-author: Boostraptheme
+author: Bootstrap theme
 author URL: https://boostraptheme.com
 License: Creative Commons Attribution 4.0 Unported
 License URL: https://creativecommons.org/licenses/by/4.0/
@@ -8,7 +8,9 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 /*====================================================
                          REPORT-1
 ======================================================*/
-
+body{
+background: red !important;
+}
 #report1 .card-block {
 	padding:10px 10px 0 10px;
 }
