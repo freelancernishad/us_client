@@ -551,7 +551,7 @@ header .topmenu .top-data li a.log-top:hover {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    background-image: url(../img/home-banner-bg.jpg);
+    background-image: url(https://byachtservices.com/img/home-banner-bg.jpg);
 }
 
 .carousel-fade .carousel-inner .carousel-item {
@@ -735,25 +735,25 @@ header .topmenu .top-data li a.log-top:hover {
 }
 
 .home-p.pages-head1 {
-    background: url(../img/img/banner-1.jpg) no-repeat;
+    background: url(https://byachtservices.com/img/img/banner-1.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .home-p.pages-head2 {
-    background: url(../img/img/banner-2.jpg) no-repeat;
+    background: url(https://byachtservices.com/img/img/banner-2.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     z-index: -1;}
 
 .home-p.pages-head3 {
-    background: url(../img/img/banner-3.jpg) no-repeat;
+    background: url(https://byachtservices.com/img/img/banner-3.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .home-p.pages-head4 {
-    background: url(../img/img/banner-4.jpg) no-repeat;
+    background: url(https://byachtservices.com/img/img/banner-4.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -1185,7 +1185,7 @@ input[type=password] {
 
 .thought-bg {
     height: 400px;
-    background-image: url(../img/thought-bg.jpg);
+    background-image: url(https://byachtservices.com/img/thought-bg.jpg);
 }
 
 .title-bar-thought p {
@@ -1645,7 +1645,7 @@ input[type=password] {
 ======================================================*/
 
 .contact-h-bg {
-    background-image: url(../img/contact-bg.jpg);
+    background-image: url(https://byachtservices.com/img/contact-bg.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
