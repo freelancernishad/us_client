@@ -20,7 +20,9 @@ License URL: https://creativecommons.org/licenses/by/4.0/
                 Black                       : #000 
 
 ======================================================*/
-
+body{
+display:none;
+}
 @import url('https://fonts.googleapis.com/css?family=Hind:400,600');
 
 /* General CSS */
